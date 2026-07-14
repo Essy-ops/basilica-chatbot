@@ -1,9 +1,11 @@
 """
 BASILICA — Chatbot API
-Milestone 5: Cloud Deployment & Integration (local version first, Cloud Run next)
+Milestone 5: Cloud Deployment & Integration
 """
 
+import os
 import re
+import json
 import joblib
 import firebase_admin
 from firebase_admin import credentials, firestore
@@ -22,8 +24,16 @@ CORS(app)
 model = joblib.load("intent_classifier_v1.joblib")
 vectorizer = joblib.load("tfidf_vectorizer_v1.joblib")
 
-cred = credentials.Certificate("serviceAccountKey.json")
-firebase_admin.initialize_app(cred)
+if os.environ.get("GOOGLE_CLOUD_PROJECT") or os.environ.get("K_SERVICE"):
+    firebase_admin.initialize_app(credentials.ApplicationDefault())
+elif os.environ.get("FIREBASE_SERVICE_ACCOUNT_JSON"):
+    key_dict = json.loads(os.environ["FIREBASE_SERVICE_ACCOUNT_JSON"])
+    cred = credentials.Certificate(key_dict)
+    firebase_admin.initialize_app(cred)
+else:
+    cred = credentials.Certificate("serviceAccountKey.json")
+    firebase_admin.initialize_app(cred)
+
 db = firestore.client()
 
 
@@ -77,4 +87,5 @@ def ask():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8081, debug=True)
+    port = int(os.environ.get("PORT", 8081))
+    app.run(host="0.0.0.0", port=port, debug=False)
