@@ -1,0 +1,32 @@
+text,intent,text_clean
+Who coordinates the altar servers?,staff_directory,who coordinates the altar servers?
+Is there a baptism class I need to attend?,sacraments_baptism,is there a baptism class i need to attend?
+Who manages the parish office?,staff_directory,who manages the parish office?
+What time is the last Sunday mass?,mass_times,what time is the last sunday mass?
+Is there an emergency contact number?,contact_info,is there an emergency contact number?
+Is there a parish anniversary celebration coming up?,events,is there a parish anniversary celebration coming up?
+What are the ways to give tithes online?,donations,what are the ways to give tithes online?
+Can you show me John 3:16?,scripture_lookup,can you show me john 316?
+What time does the office close today?,contact_info,what time does the office close today?
+Do you have vacation bible school for kids?,events,do you have vacation bible school for kids?
+What time is Sunday Mass?,mass_times,what time is sunday mass?
+Who founded this mission church?,parish_history,who founded this mission church?
+Do adults get baptized here too?,sacraments_baptism,do adults get baptized here too?
+Is confession offered every day?,confession_schedule,is confession offered every day?
+Is confession offered during Advent?,confession_schedule,is confession offered during advent?
+Who is the assistant priest?,staff_directory,who is the assistant priest?
+Where is confession held in the church?,confession_schedule,where is confession held in the church?
+What documents do I need for baptism?,sacraments_baptism,what documents do i need for baptism?
+How do I sponsor a specific church project?,donations,how do i sponsor a specific church project?
+Is there a parish fundraiser coming up?,events,is there a parish fundraiser coming up?
+Do you have a social media page?,contact_info,do you have a social media page?
+When is the earliest mass on Sunday?,mass_times,when is the earliest mass on sunday?
+What is the history of this church building?,parish_history,what is the history of this church building?
+Do visiting priests hear confessions here?,confession_schedule,do visiting priests hear confessions here?
+How many parishioners does this church have?,parish_history,how many parishioners does this church have?
+Can I donate my old car to the parish?,donations,can i donate my old car to the parish?
+What is this week's liturgical theme?,scripture_lookup,what is this week's liturgical theme?
+Is Mass held every day?,mass_times,is mass held every day?
+Is there a marriage encounter weekend planned?,events,is there a marriage encounter weekend planned?
+What is the Gospel reading for Palm Sunday?,scripture_lookup,what is the gospel reading for palm sunday?
+What certificate do I get after baptism?,sacraments_baptism,what certificate do i get after baptism?

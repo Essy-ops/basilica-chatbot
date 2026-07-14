@@ -1,0 +1,206 @@
+text,intent
+What time is Sunday Mass?,mass_times
+When is mass on Sundays?,mass_times
+What are your Mass schedule times?,mass_times
+Is there an evening Mass on Saturday?,mass_times
+What time does the 8am mass start?,mass_times
+Do you have a Sunday evening service?,mass_times
+What are weekday mass times?,mass_times
+Is Mass held every day?,mass_times
+What time is the Sunday 10am mass?,mass_times
+How many Masses do you have on Sunday?,mass_times
+What time does mass start tomorrow?,mass_times
+Is there a mass this evening?,mass_times
+When is the earliest mass on Sunday?,mass_times
+Do you have mass on public holidays?,mass_times
+What time is the last Sunday mass?,mass_times
+Is there Mass on Christmas Day?,mass_times
+What time is the Wednesday evening mass?,mass_times
+Do you offer a Latin mass?,mass_times
+How long does Sunday mass usually take?,mass_times
+What time should I arrive for mass?,mass_times
+Is there a children's mass on Sundays?,mass_times
+What time is First Friday mass?,mass_times
+Do you have mass twice on Sunday?,mass_times
+What time is the Saturday vigil mass?,mass_times
+Is there an early morning mass on weekdays?,mass_times
+How do I book a baptism?,sacraments_baptism
+What is required to baptize my child?,sacraments_baptism
+Can I schedule an infant baptism?,sacraments_baptism
+What documents do I need for baptism?,sacraments_baptism
+Who can be a godparent?,sacraments_baptism
+How far in advance should I book a baptism?,sacraments_baptism
+Is there a baptism class I need to attend?,sacraments_baptism
+What age can a child be baptized?,sacraments_baptism
+How do I register my baby for baptism?,sacraments_baptism
+Do adults get baptized here too?,sacraments_baptism
+Can my child be baptized next month?,sacraments_baptism
+What is the baptism fee?,sacraments_baptism
+Do godparents need to be Catholic?,sacraments_baptism
+How many godparents are required?,sacraments_baptism
+Can baptism happen during a normal Sunday mass?,sacraments_baptism
+What should the baby wear for baptism?,sacraments_baptism
+Is there a waiting list for baptism dates?,sacraments_baptism
+Can I baptize my child at another parish?,sacraments_baptism
+Do you baptize on weekdays?,sacraments_baptism
+What certificate do I get after baptism?,sacraments_baptism
+Is godparent training mandatory?,sacraments_baptism
+How soon after birth should a baby be baptized?,sacraments_baptism
+Can grandparents be godparents?,sacraments_baptism
+What is needed to register for baptism classes?,sacraments_baptism
+Who do I talk to about baptizing my newborn?,sacraments_baptism
+When is confession available?,confession_schedule
+What time is reconciliation on Saturdays?,confession_schedule
+Can I go for confession before mass?,confession_schedule
+Do you offer confession by appointment?,confession_schedule
+Is there confession during Lent?,confession_schedule
+What time does the priest hear confessions?,confession_schedule
+How long is the confession line usually?,confession_schedule
+Where is confession held in the church?,confession_schedule
+Is confession available in the evening?,confession_schedule
+Do I need to book confession in advance?,confession_schedule
+Is confession offered every day?,confession_schedule
+Can I request a specific priest for confession?,confession_schedule
+Is there face-to-face confession available?,confession_schedule
+What time is confession on First Fridays?,confession_schedule
+Do you have confession before evening mass?,confession_schedule
+Is confession available for children?,confession_schedule
+How do I prepare for my first confession?,confession_schedule
+Is there extra confession time during Holy Week?,confession_schedule
+Can I confess anonymously?,confession_schedule
+What time does confession end on Saturdays?,confession_schedule
+Is confession held in the main church or a side room?,confession_schedule
+Do visiting priests hear confessions here?,confession_schedule
+Is confession offered during Advent?,confession_schedule
+Can I go to confession without an appointment?,confession_schedule
+What time is the sacrament of reconciliation?,confession_schedule
+What events are happening this month?,events
+Is there a parish fundraiser coming up?,events
+When is the next youth group meeting?,events
+Do you have a calendar of church events?,events
+Is there a retreat planned this year?,events
+When is the next parish feast day celebration?,events
+Are there any upcoming choir rehearsals?,events
+What's happening during Holy Week?,events
+Is there a Christmas program this year?,events
+When is the next community outreach event?,events
+Is there a pilgrimage planned this year?,events
+When is the next men's fellowship meeting?,events
+Is there a women's guild event this month?,events
+Do you have vacation bible school for kids?,events
+When is the next confirmation class starting?,events
+Is there a parish anniversary celebration coming up?,events
+When is the next blood donation drive?,events
+Is there a marriage encounter weekend planned?,events
+When is the next altar servers training?,events
+Do you have an Easter vigil celebration?,events
+Is there a harvest festival this year?,events
+When is the next First Communion ceremony?,events
+Is there a lecture series happening this month?,events
+When is the parish council meeting?,events
+Is there a movie night for the youth?,events
+How can I donate to the church?,donations
+What are the ways to give tithes online?,donations
+Do you accept mobile money donations?,donations
+Is there a building fund I can contribute to?,donations
+Can I set up recurring donations?,donations
+How do I get a donation receipt?,donations
+What bank account do you use for offerings?,donations
+Can I donate items instead of money?,donations
+Is there a special collection this Sunday?,donations
+How is the church funding the new project?,donations
+Can I give my tithe through the app?,donations
+Is there a minimum amount for donations?,donations
+Can I donate anonymously?,donations
+Do you accept international donations?,donations
+How do I sponsor a specific church project?,donations
+Can businesses donate to the parish?,donations
+Is there a way to donate food for the needy?,donations
+How is the offering money used?,donations
+Can I donate towards the choir's new instruments?,donations
+Do you issue tax-deductible donation receipts?,donations
+Is there an online giving portal?,donations
+How much does the church need for the roof repair?,donations
+Can I make a one-time donation for Christmas?,donations
+What is the Paybill number for offerings?,donations
+Can I donate my old car to the parish?,donations
+What is the church's phone number?,contact_info
+How do I contact the parish office?,contact_info
+What is your email address?,contact_info
+Where is the church located?,contact_info
+What are the office opening hours?,contact_info
+Can I get directions to the parish?,contact_info
+Is there a WhatsApp number for the office?,contact_info
+What is your postal address?,contact_info
+How do I reach the parish secretary?,contact_info
+Do you have a social media page?,contact_info
+Is the parish office open on Sundays?,contact_info
+What is the nearest landmark to the church?,contact_info
+Can I call the church directly?,contact_info
+Is there an emergency contact number?,contact_info
+What time does the office close today?,contact_info
+Do you have a Facebook page I can follow?,contact_info
+Is there parking information available online?,contact_info
+How do I email the parish office?,contact_info
+What's your church's official website?,contact_info
+Can I visit the office without an appointment?,contact_info
+Who is the parish priest?,staff_directory
+How do I contact Father for a house visit?,staff_directory
+Who is the assistant priest?,staff_directory
+Who leads the youth ministry?,staff_directory
+Who is the choir director?,staff_directory
+Who manages the parish office?,staff_directory
+Who is in charge of catechism classes?,staff_directory
+Is the bishop visiting soon?,staff_directory
+Who coordinates the altar servers?,staff_directory
+Who do I talk to about marriage preparation?,staff_directory
+Who is the current parish administrator?,staff_directory
+Who leads the women's guild?,staff_directory
+Who is responsible for the parish finance committee?,staff_directory
+Who is the deacon at this parish?,staff_directory
+Who teaches the confirmation classes?,staff_directory
+Who is in charge of the parish council?,staff_directory
+Who can I speak to about counseling?,staff_directory
+Who manages the Sunday school program?,staff_directory
+Who is the sacristan?,staff_directory
+Who do I contact for wedding bookings?,staff_directory
+What is today's Gospel reading?,scripture_lookup
+Can you tell me the first reading for this Sunday?,scripture_lookup
+What is the responsorial psalm today?,scripture_lookup
+Where can I find the daily readings?,scripture_lookup
+What scripture is used for the feast of Christ the King?,scripture_lookup
+Can you show me John 3:16?,scripture_lookup
+What is the second reading this week?,scripture_lookup
+What Gospel passage is read on Easter Sunday?,scripture_lookup
+Is there a reading plan for Lent?,scripture_lookup
+What book of the Bible are we reading in daily mass?,scripture_lookup
+What is the Gospel for tomorrow?,scripture_lookup
+Can you give me the readings for next Sunday?,scripture_lookup
+What psalm is used this week?,scripture_lookup
+What is the Old Testament reading today?,scripture_lookup
+Where can I read the Sunday homily reflection?,scripture_lookup
+What is the Gospel reading for Palm Sunday?,scripture_lookup
+Can I get the daily Mass readings by email?,scripture_lookup
+What scripture passage is for the feast of the Assumption?,scripture_lookup
+What is this week's liturgical theme?,scripture_lookup
+Where do I find the readings for Ash Wednesday?,scripture_lookup
+When was this parish founded?,parish_history
+Who was the first parish priest here?,parish_history
+What is the history of this church building?,parish_history
+How old is this parish?,parish_history
+Was this church built by missionaries?,parish_history
+What diocese does this parish belong to?,parish_history
+Is this church named after a specific saint?,parish_history
+How many parishioners does this church have?,parish_history
+Has the church been renovated before?,parish_history
+What is the patron feast of this parish?,parish_history
+Who built the original church structure?,parish_history
+What year was the parish established?,parish_history
+Is there a historical record of this parish?,parish_history
+What is significant about this parish's history?,parish_history
+Has the parish always been at this location?,parish_history
+Who founded this mission church?,parish_history
+Is there a jubilee celebration planned for the parish anniversary?,parish_history
+What was this parish originally called?,parish_history
+How did the parish grow over the years?,parish_history
+Are there records of past parish priests?,parish_history

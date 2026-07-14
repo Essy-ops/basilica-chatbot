@@ -1,0 +1,32 @@
+text,intent,text_clean
+Who is the current parish administrator?,staff_directory,who is the current parish administrator?
+What is your email address?,contact_info,what is your email address?
+How long is the confession line usually?,confession_schedule,how long is the confession line usually?
+Was this church built by missionaries?,parish_history,was this church built by missionaries?
+Can you give me the readings for next Sunday?,scripture_lookup,can you give me the readings for next sunday?
+What are weekday mass times?,mass_times,what are weekday mass times?
+Do you baptize on weekdays?,sacraments_baptism,do you baptize on weekdays?
+Do you have a Facebook page I can follow?,contact_info,do you have a facebook page i can follow?
+Do you accept international donations?,donations,do you accept international donations?
+Do you offer confession by appointment?,confession_schedule,do you offer confession by appointment?
+What time is the Sunday 10am mass?,mass_times,what time is the sunday 10am mass?
+Is the bishop visiting soon?,staff_directory,is the bishop visiting soon?
+Is there an online giving portal?,donations,is there an online giving portal?
+Who is in charge of catechism classes?,staff_directory,who is in charge of catechism classes?
+What diocese does this parish belong to?,parish_history,what diocese does this parish belong to?
+How do I email the parish office?,contact_info,how do i email the parish office?
+Do godparents need to be Catholic?,sacraments_baptism,do godparents need to be catholic?
+Do you have mass twice on Sunday?,mass_times,do you have mass twice on sunday?
+Do you have a calendar of church events?,events,do you have a calendar of church events?
+What is the Gospel for tomorrow?,scripture_lookup,what is the gospel for tomorrow?
+What year was the parish established?,parish_history,what year was the parish established?
+Is there a waiting list for baptism dates?,sacraments_baptism,is there a waiting list for baptism dates?
+What book of the Bible are we reading in daily mass?,scripture_lookup,what book of the bible are we reading in daily mass?
+How is the offering money used?,donations,how is the offering money used?
+When is the next community outreach event?,events,when is the next community outreach event?
+Is there a mass this evening?,mass_times,is there a mass this evening?
+When is the next confirmation class starting?,events,when is the next confirmation class starting?
+Can I go for confession before mass?,confession_schedule,can i go for confession before mass?
+Is there a special collection this Sunday?,donations,is there a special collection this sunday?
+Can I confess anonymously?,confession_schedule,can i confess anonymously?
+When is the next men's fellowship meeting?,events,when is the next men's fellowship meeting?
